@@ -14,7 +14,7 @@ Poll Creation: The app allows users to create and participate in polls, making i
 Idea Sharing: Users can showcase their ideas related to embedded systems or VLSI, receiving feedback from the community.
 Community Engagement: The app encourages vibrant discussions, enabling users to connect with like-minded individuals.
 Additional Information
-App Details: The app has over 100 downloads and is suitable for all ages. It includes advertisements but does not collect or share user data with third parties. The app was last updated on December 16, 2023, with improvements made based on user feedback.
+App Details: The app has over 10k downloads and is suitable for all ages. It includes advertisements but does not collect or share user data with third parties. The app was last updated on December 16, 2023, with improvements made based on user feedback.
 Developer Information: Developed by Piest Systems, the app aims to provide a comprehensive educational experience for those interested in embedded systems. The support email for inquiries is pievcore@gmail.com, and the developer is located in Bangalore, Karnataka.
 Conclusion
 PiEV Core stands out as a valuable resource for anyone interested in embedded systems and VLSI. With its dual-platform approach—both a website and an Android app—it facilitates knowledge sharing and community engagement effectively. Whether you are a novice or an expert in the field, PiEV Core offers tools and resources to enhance your learning experience.
