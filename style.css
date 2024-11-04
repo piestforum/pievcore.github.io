@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background: #0A1F44; /* Dark background for better contrast */
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+header .logo {
+    width: 120px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background: #ff5733; /* Bright orange CTA button */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.cta-button:hover {
+    background: #c7441f;
+}
+
+section {
+    padding: 30px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    color: #0A1F44;
+}
+
+.feature {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.additional-info {
+    background: #f7f7f7;
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: white;
+}
+
+footer a {
+    color: #ff5733;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
